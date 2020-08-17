@@ -1,4 +1,4 @@
-# Flask Restful Api boilerplate
+# Hotels Nearby
 
 This Project serve as a geolocation service to find Hotels Nearby 
 
@@ -13,7 +13,7 @@ This Project serve as a geolocation service to find Hotels Nearby
 
 ## Getting Started
 
-The project involves a backend api which contains functionality to retrieve information about nearby Hotels. 
+The project involves a backend api which contains functionality to retrieve information about nearby Hotels base on some coordinates. 
 it will use sqlite to store it locally on the database and the docs are automate created using swagger
 
 ### Prerequisites
