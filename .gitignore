@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# db
+test.db
+unittest.db
+
+# misc
+__pycache__
+.DS_Store
+# folders
+__pycache__/
+routes/__pycache__/
+permissions/__pycache__/
+schemas/__pycache__/
+views/__pycache__/
+models/__pycache__/
+.idea/
+.pytest_cache
+
